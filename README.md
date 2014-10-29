@@ -1,4 +1,3 @@
-docker-base
-===========
+# Docker - Base Image
 
-Docker base image
+A base Docker image that inherits from Debian Wheezy.
